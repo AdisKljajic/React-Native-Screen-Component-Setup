@@ -1,6 +1,11 @@
 **Continuous Integration:** ![Build status](https://travis-ci.org/intuit/QuickBooks-V3-PHP-SDK.svg?branch=master)<br />
 **Latest Stable Version:** [![Latest Stable Version](https://poser.pugx.org/quickbooks/v3-php-sdk/v/stable)](https://packagist.org/packages/quickbooks/v3-php-sdk)<br/>
 **License:** [![License](https://poser.pugx.org/quickbooks/v3-php-sdk/license)](https://packagist.org/packages/quickbooks/v3-php-sdk) 
+# npm-icon-gen
+
+[![Support Node of LTS](https://img.shields.io/badge/node-LTS-brightgreen.svg)](https://nodejs.org/)
+[![npm version](https://badge.fury.io/js/icon-gen.svg)](https://badge.fury.io/js/icon-gen)
+![test](https://github.com/akabekobeko/npm-icon-gen/workflows/test/badge.svg)
 
 # Screen & Component Setup 
 This file is an addition to the initial project setup.<br> 
