@@ -7,6 +7,13 @@
 [![npm version](https://badge.fury.io/js/icon-gen.svg)](https://badge.fury.io/js/icon-gen)
 ![test](https://github.com/akabekobeko/npm-icon-gen/workflows/test/badge.svg)
 
+# [React Icons](https://react-icons.github.io/react-icons)
+
+[![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/react-icons
+
 # Screen & Component Setup 
 This file is an addition to the initial project setup.<br> 
 Once you have the initial setup established you can use this to auto generate all of the required screens and components for each item. 
