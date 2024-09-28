@@ -1,7 +1,7 @@
 # Project Badges
-[![npm][npm-image]][npm-url]
 [npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/react-icons
+[![npm][npm-image]][npm-url]
 [![Support Node of LTS](https://img.shields.io/badge/node-LTS-brightgreen.svg)](https://nodejs.org/)
 [![npm version](https://badge.fury.io/js/icon-gen.svg)](https://badge.fury.io/js/icon-gen)
 ![test](https://github.com/akabekobeko/npm-icon-gen/workflows/test/badge.svg)
