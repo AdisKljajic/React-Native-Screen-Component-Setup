@@ -9,8 +9,8 @@
 # For Example
 # Welcome, Login, Dashboard, Settings
 
-# Author: Adis Kljajic
-# Date Written: 09/27/2024
+# Author Adis Kljajic
+# Date Written 09/27/2024
 # React-Native Automation Advanced With Navigations
 
 # How To Run File-- ./setup_configurations.sh ApplicationName
