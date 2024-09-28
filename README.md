@@ -3,6 +3,7 @@ This file is an addition to the initial project setup.<br>
 Once you have the initial setup established you can use this to auto generate all of the required screens and components for each item. 
 
 # How To Run The File
+Run this file within your initial Project Setup Location
 ./setup_configurations.js
 
 # Screen Setup Prompt 
