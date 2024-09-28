@@ -1,3 +1,5 @@
+npm 
+
 # Screen & Component Setup 
 This file is an addition to the initial project setup.<br> 
 Once you have the initial setup established you can use this to auto generate all of the required screens and components for each item. 
