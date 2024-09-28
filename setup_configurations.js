@@ -6,8 +6,16 @@
 # Once You Run This File, It Will Ask For The Initial Route Names
 # Route Names Are All The Screens This Project Will Contain
 # Use A Comma To Seperate Each Route Name
-# For Example: 
+# For Example
 # Welcome, Login, Dashboard, Settings
+
+# Author: Adis Kljajic
+# Date Written: 09/27/2024
+# React-Native Automation Advanced With Navigations
+
+# How To Run File-- ./setup_configurations.sh ApplicationName
+# If you get permission denied run the following command:
+# chmod +x setup_project.sh
 
 ##### Process Start
 #!/bin/bash
