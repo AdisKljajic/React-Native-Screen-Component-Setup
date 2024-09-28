@@ -1,4 +1,8 @@
-npm 
+**Help:** [Support](https://developer.intuit.com/help)<br/>
+**Documentation:** [Documentation](https://intuit.github.io/QuickBooks-V3-PHP-SDK/)<br/>
+**Continuous Integration:** ![Build status](https://travis-ci.org/intuit/QuickBooks-V3-PHP-SDK.svg?branch=master)<br />
+**Latest Stable Version:** [![Latest Stable Version](https://poser.pugx.org/quickbooks/v3-php-sdk/v/stable)](https://packagist.org/packages/quickbooks/v3-php-sdk)<br/>
+**License:** [![License](https://poser.pugx.org/quickbooks/v3-php-sdk/license)](https://packagist.org/packages/quickbooks/v3-php-sdk) 
 
 # Screen & Component Setup 
 This file is an addition to the initial project setup.<br> 
