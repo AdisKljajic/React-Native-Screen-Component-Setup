@@ -1,3 +1,7 @@
+# Author Adis Kljajic
+# Date Written 09/27/2024
+# React-Native Screen & Component Setup Configurations
+
 # Setup Configurations Dynamically Create An Initial Setup
 # This Setup Will Create A Welcome & Login Screen
 # Using Advanced Technologies To Randomize Design Concepts
@@ -8,10 +12,6 @@
 # Use A Comma To Seperate Each Route Name
 # For Example
 # Welcome, Login, Dashboard, Settings
-
-# Author Adis Kljajic
-# Date Written 09/27/2024
-# React-Native Automation Advanced With Navigations
 
 # How To Run File-- ./setup_configurations.sh ApplicationName
 # If you get permission denied run the following command:
