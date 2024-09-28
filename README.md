@@ -7,7 +7,7 @@
 [![npm version](https://badge.fury.io/js/icon-gen.svg)](https://badge.fury.io/js/icon-gen)
 ![test](https://github.com/akabekobeko/npm-icon-gen/workflows/test/badge.svg)
 
-# [React Icons](https://react-icons.github.io/react-icons)
+# [React Icons]
 
 [![npm][npm-image]][npm-url]
 
